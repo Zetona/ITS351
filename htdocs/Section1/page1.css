@@ -1,0 +1,45 @@
+<html>
+<head><title>My First ITS 351</title></head>
+
+<style type="text/css">
+
+.STYLE_ONE /*big red*/
+{
+	color:#F00; 
+	font-size:40px;
+}
+
+.STYLE_TWO /*small blue*/
+{
+	color:#00F; 
+	font-size:20px;
+}
+.STYLE_THREE /*big purple*/
+{
+	color:#F0F; 
+	font-size:40px;
+	font-weight:bold;
+}
+
+.STYLE_FOUR /*small blue*/
+{
+	color:#0FF; 
+	font-size:20px;
+	text-decoration:underline;
+}
+
+#ONE
+{
+	font-size:4px;
+}
+
+span
+{
+	background:#006;
+	color:#FFF;
+	border:3px dashed #FF0;
+	padding:5px;
+	margin:20px;
+}
+
+</style>
